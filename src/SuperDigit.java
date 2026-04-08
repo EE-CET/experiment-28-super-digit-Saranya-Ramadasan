@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SuperDIgit {
+public class SuperDigit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
